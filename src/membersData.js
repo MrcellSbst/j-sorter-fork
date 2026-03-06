@@ -461,7 +461,7 @@ export const members = [
     name: 'Shania Gracia',
     picture: '/assets/member/shania_gracia.webp',
     generation: 3,
-    graduated: false,
+    graduated: true,
     trainee: false,
   },
   {
